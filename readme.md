@@ -22,3 +22,13 @@ eslin konfiguration :
 -Which style guide do you want to follow? -> (Anda bebas memilih, sebagai contoh pilih AirBnB).
 -What format do you want your config file to be in? -> JSON.
 -Would you like to …… (seluruh pertanyaan selanjutnya) -> Y.
+
+
+
+github
+    : 1. git init (untuk menginisialisasi)
+      2. document .gitignore
+      3. git add .
+      4. git commit -m "initial commit"(digunakan untuk menyimpan perubahan pada local repository. Setiap perubahan pada sistem git dapat ditelusuri berdasarkan commit history)
+      5. git remote add origin <URL dari github>
+      6. git push origin master(untuk  upload commit history)
