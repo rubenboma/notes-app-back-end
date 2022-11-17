@@ -32,3 +32,6 @@ github
       4. git commit -m "initial commit"(digunakan untuk menyimpan perubahan pada local repository. Setiap perubahan pada sistem git dapat ditelusuri berdasarkan commit history)
       5. git remote add origin <URL dari github>
       6. git push origin master(untuk  upload commit history)
+
+
+AWS : Belum berhasil daftar akun aws
